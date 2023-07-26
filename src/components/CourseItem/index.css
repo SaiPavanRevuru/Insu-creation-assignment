@@ -1,0 +1,20 @@
+.course-item-container {
+  padding: 20px;
+  border-radius: 20px;
+  margin-right: 30px;
+  height: 380px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.course-item-img {
+  height: 200px;
+}
+
+.course-item-heading {
+  text-align: left;
+  font-size: 28px;
+  color: #ffffff;
+}

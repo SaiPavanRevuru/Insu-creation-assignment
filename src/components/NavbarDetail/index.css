@@ -1,0 +1,44 @@
+.navbar-detail-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-detail-sub-container {
+  display: flex;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.logo-img {
+  height: 80px;
+}
+
+.navbar-list-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-list-item {
+  list-style-type: none;
+  color: #050748;
+  margin-right: 20px;
+  font-size: 16px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar-icon-container {
+  background-color: blue;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.navbar-tele-icon {
+  color: white;
+  font-size: 18px;
+}

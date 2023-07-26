@@ -1,0 +1,16 @@
+.companies-slider-container {
+  background-color: #030760;
+  padding-left: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.company-slider-image {
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.companies-slider-sub-container {
+  width: 80vw;
+}

@@ -1,0 +1,100 @@
+.excellence-section-container {
+  background-image: url('https://www.webingo.in/images/shape/dot-shape.png');
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.excellence-section-top-container-title {
+  color: black;
+  font-size: 16px;
+  font-family: 'Open sans', sans-serif;
+}
+
+.excellence-section-top-container-heading {
+  color: black;
+  font-size: 44px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.excellence-section-middle-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-wrap: wrap;
+}
+
+.excellence-section-middle-container-card-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin: 20px;
+  width: 35vw;
+  border-radius: 10px;
+  height: 30vh;
+}
+
+.excellence-section-middle-container-card-sub {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.excellence-section-middle-container-card-sub-heading {
+  color: #f5f5f5;
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.excellence-section-middle-container-card-sub-para {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.excellence-section-bottom-container-image {
+  height: 200px;
+  margin-right: 10px;
+}
+
+.excellence-section-bottom-container-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.excellence-section-bottom-container-card-para {
+  color: #050748;
+  font-size: 26px;
+  font-family: 'Open-Sans', sans-serif;
+  margin-right: 25px;
+}
+
+.excellence-section-bottom-container-button {
+  background-image: linear-gradient(135deg, #3f74a3, #0000aa 32%, #4d4dff);
+  box-shadow: 0 10px 15px 0px rgba(175, 0, 87, 0.2);
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Poppins', sans-serif;
+  padding: 0px 32px;
+  line-height: 56px;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 100px;
+  display: inline-block;
+  position: relative;
+  width: 130px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

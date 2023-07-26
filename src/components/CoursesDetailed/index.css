@@ -1,0 +1,90 @@
+.courses-detailed-main-cont {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.courses-detailed-sub-cont-spc {
+  background-color: #4d4dff;
+  color: #ffffff;
+  border-radius: 10px;
+  padding: 20px;
+  width: 30vw;
+  height: 40vh;
+}
+
+.courses-detailed-sub-cont-spc-heading {
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.courses-detailed-sub-cont-spc-description {
+  font-size: 17px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.courses-detailed-sub-cont {
+  display: flex;
+  flex-direction: column;
+}
+
+.courses-detailed-sub-cont-card-hover {
+  border-radius: 20px;
+  width: 30vw;
+  border-width: 0;
+  border-bottom-width: 3px;
+  border-style: solid;
+  margin-left: 20px;
+  height: 40vh;
+  padding: 20px;
+  padding-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.courses-detailed-sub-cont-card-heading-hover {
+  color: #050748;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.courses-detailed-sub-cont-card-list-cont-hover {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.courses-detailed-sub-cont-card-list-item-cont-hover {
+  list-style-type: none;
+}
+
+.courses-detailed-sub-cont-card-description-hover {
+  color: grey;
+}
+
+.courses-detailed-sub-cont-card {
+  border-radius: 20px;
+  width: 30vw;
+  border-width: 0;
+  border-bottom-width: 3px;
+  border-style: solid;
+  margin-left: 20px;
+  height: 40vh;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.courses-detailed-sub-cont-card-img {
+  height: 50px;
+}
+
+.courses-detailed-sub-cont-card-heading {
+  color: #050748;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}

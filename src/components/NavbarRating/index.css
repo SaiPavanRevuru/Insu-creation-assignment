@@ -1,0 +1,66 @@
+.navbar-rating-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #162d42;
+  align-items: center;
+}
+
+.navbar-rating-sub-container {
+  display: flex;
+  flex-direction: row;
+  margin-right: 20px;
+  margin-left: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.google-img {
+  height: 25px;
+  margin-right: 5px;
+}
+
+.star-rating-img {
+  height: 20px;
+  margin-right: 5px;
+}
+
+.rating-para {
+  font-family: 'Open Sans';
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.navbar-talk-text {
+  color: #ffffff;
+  margin-right: 10px;
+  font-size: 17px;
+  font-family: 'Montserrat';
+}
+
+.navbar-phone-number {
+  color: #ffffff;
+  margin-right: 10px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+}
+
+.navbar-contact-container {
+  background-color: #ffffff24;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 50px;
+  border-radius: 30px;
+  color: #ffffff;
+}
+
+.navbar-customer-care-img {
+  border-radius: 20px;
+  margin-right: 10px;
+  font-size: 17px;
+  font-family: 'Open Sans';
+  font-weight: 800;
+}
